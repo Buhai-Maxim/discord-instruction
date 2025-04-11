@@ -1,8 +1,4 @@
 
-#set page(width: 210mm, height: 297mm)
-#set heading(numbering: "1.")
-#set text(align: justify)
-
 # Discord: Инструкция по настройке сервера для командной работы
 
 ## Введение
@@ -43,26 +39,6 @@
 2. Найдите бота, например: `MEE6`, `Dyno`, `GitHub Bot`.
 3. Нажмите **"Invite"** и выберите сервер.
 4. Подтвердите авторизацию и настройте роли боту.
-
-## 5. Использование Git и GitHub
-
-1. Инициализируйте репозиторий:
-   ```bash
-   git init
-   ```
-2. Добавьте файл:
-   ```bash
-   git add discord-guide.typ
-   ```
-3. Сделайте коммит:
-   ```bash
-   git commit -m "Initial commit"
-   ```
-4. Опубликуйте:
-   ```bash
-   git remote add origin <ваш-репозиторий>
-   git push -u origin master
-   ```
 
 ## Заключение
 
