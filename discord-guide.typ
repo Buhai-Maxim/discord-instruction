@@ -1,4 +1,8 @@
-
+git init
+git remote add origin https://github.com/Buhai-Maxim/discord-instruction.git
+git add.
+git commit -m "Добавлена инструкция по настройке Discord"
+git push -u origin master
 # Discord: Инструкция по настройке сервера для командной работы
 
 ## Введение
